@@ -1,0 +1,31 @@
+ Một vấn_đề mà nhiều người quan_tâm đó là chiếc vỏ nhựa của i Phone 5c liệu có_dễ trầy hay không ?
+ iPhone 5c vẫn sở_hữu màn_hình retina kích_thước 4 " , độ_phân_giải 1.136 x 640 pixel ( 326PPI ) , tấm nền IPS , tương_tự như trên i Phone 5 và 5s .
+ Camera trên i Phone 5c không có nhiều thay_đổi , phía sau vẫn là chiếc camera i Sight 8MGPX , cảm_biến BSI , độ mở f / 2.4 , tấm phủ saphia , giống như trên i Phone 5 .
+ Các bạn có_thể xem_lại bài so_sánh camera của i Phone 5s , iPhone 5c và i Phone 5 để rõ hơn .
+ Tinh_tế đã có bài Thử chụp ảnh nhanh với i Phone 5c , các bạn có_thể xem thêm ở đây .
+ Tất_nhiên là i Phone 5c sử_dụng giao_diện phẳng trên i OS7 vì_thế sẽ không có nhiều điều để nói về nó .
+ Đây có_lẽ là vấn_đề nhiều bạn quan_tâm nhất . Có_thể nói , iPhone 5c là một chiếc i Phone 5 đặt vào khung vỏ nhựa . Về cơ_bản , chúng_ta có một chiếc i Phone cấu_hình tương_đương với i Phone 5 , chạy chip A6 , 2 nhân , tốc_độ 1.3GHz , GPU PowerVR SGX 543MP3 , cùng 1GB RAM . Nếu bạn đang xài i Phone 5 và chuyển sang 5c thì sẽ không có nhiều khác_biệt về khả_năng thực_thi của máy . Mọi thứ vẫn rất mượt_mà và thoải_mái . Các bài thử_nghiệm đo sức_mạnh cũng đã chứng_tỏ điều đó . Trong tất_cả các thử_nghiệm , sức_mạnh của i Phone 5 và 5c là tương_đương nhau , chênh_lệch rất nhỏ và không đáng_kể . Các bạn có_thể xem_lại bài " Kết_quả benchmark của các máy i OS có CPU 2 nhân " để có thông_tin chi_tiết hơn .
+ Có_thể nói , iPhone 5c là một chiếc i Phone 5 đặt vào khung vỏ nhựa .
+ Về cơ_bản , chúng_ta có một chiếc i Phone cấu_hình tương_đương với i Phone 5 , chạy chip A6 , 2 nhân , tốc_độ 1.3GHz , GPU PowerVR SGX 543MP3 , cùng 1GB RAM .
+ Nếu bạn đang xài i Phone 5 và chuyển sang 5c thì sẽ không có nhiều khác_biệt về khả_năng thực_thi của máy .
+ Trong tất_cả các thử_nghiệm , sức_mạnh của i Phone 5 và 5c là tương_đương nhau , chênh_lệch rất nhỏ và không đáng_kể .
+ Và theo thông_số kỹ_thuật thì đúng như_vậy , dung_lượng của pin trên i Phone 5c là 1.510mAh , còn của i Phone 5 là 1.440mAh . Mình thường sạc đầy pin cho máy vào ban_đêm và rút sạc vào buổi_sáng , tất_cả các kết_nối thông_thường là Wi-Fi và 3G đều được duy_trì , số_lượng cuộc_gọi ở mức
+ Ở điều_kiện hoạt_động như_vậy , iPhone 5c có_thể sống_sót nguyên ngày , phải đến tối khi chuẩn_bị đi ngủ thì mình mới sạc trở_lại .
+ Tinh_tế sẽ có bài đánh_giá chi_tiết pin của i Phone 5c trong thời_gian sắp tới .
+ Với i Phone 5c , rõ_ràng là nó dành cho các bạn trẻ thích vui_vẻ và các sắc_màu .
+ Nhưng những thay_đổi này không_thể biến i Phone 5s thành một sản_phẩm đột_phá .
+ Có_lẽ , phải ít_nhất là 1 , 2 tháng nữa , khi các ứng_dụng mới ra_mắt , sự khác_biệt giữa i Phone 5s và i Phone 5 mới được làm rõ .
+ Có_thể nói i Phone 5s nên có một tên gọi chính_xác hơn : " iPhone 5P " , trong đó " P " là viết tắt của " potential ( tiềm_năng ) .
+ iPhone 5s đã mở_màn cho các công_nghệ có_thể thay_đổi hoàn_toàn tương_lai của nền_tảng điện_toán i OS và coi là sản_phẩm bước đệm cho các sản_phẩm đột_phá cho năm 2014 .
+ Các phiên_bản 16GB , 32GB và 64GB của i Phone 5s sẽ có_giá tại Mỹ là 649 USD , 749 USD và 849USD .
+ iPhone 5s không phải là chiếc smartphone đầu_tiên có cảm_biến nhận_diện vân tay : cảm_ứng nhận_diện vân tay đã từng xuất_hiện trên Motorola_Atrix từ năm_ngoái và cũng đã xuất_hiện trên một_số mẫu smartphone 2013 như Pantech_Vega LTE - A và cũng có_thể xuất_hiện trên cả HTC One_Max sắp ra_mắt .
+ Khi i Phone 5s được khởi_động lại , hoặc sau 48 giờ không sử_dụng , bạn sẽ phải nhập lại passcode .
+ Sau 3 lần nhận_diện vân tay_không thành_công , iPhone 5s sẽ cho_phép bạn nhập passcode , và sau 5 lần nhận_diện vân tay , bạn sẽ bắt_buộc phải nhập passcode .
+ Hiện_tại , dữ_liệu Touch ID và dấu vân tay của bạn sẽ được giữ ( và mã_hóa ) trên vi_xử_lý A7 và i Phone 5s , nằm ngoài tầm kiểm_soát của các dịch_vụ trực_tuyến và các ứng_dụng của bên thứ 3 .
+ Nếu bạn muốn mua một chiếc i Phone để chụp ảnh , hãy chọn i Phone 5s .
+ Không giống như các mẫu smartphone cạnh_tranh , vốn càng_ngày_càng " nhồi_nhét " nhiều megapixel vào camera , bộ_phận camera của i Phone 5s chỉ dừng lại ở 8MP , tương_đương với i Phone 5 và cả i Phone 4S .
+ Theo Apple , iPhone 5s cũng được trang_bị một vi_xử_lý hình_ảnh mới , tích_hợp trên vi_xử_lý chính A7 .
+ Apple cũng đã mang tới một thay_đổi lớn cho đèn flash của i Phone .
+ Camera i Phone 5s sẽ quay video với tốc_độ 120 khung hình / giây trên độ_phân_giải 720p .
+ Bạn có_thể sử_dụng i Movie ( miễn_phí trên i Phone 5s và 5c ) để chỉnh_sửa video quay chậm .
+ Câu_hỏi mà chắc_chắn bạn đang hỏi là , iPhone 5s có đủ sức chống lại các sản_phẩm cạnh_tranh trên phương_diện camera ?
