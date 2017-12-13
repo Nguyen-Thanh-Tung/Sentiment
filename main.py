@@ -104,7 +104,7 @@ if not os.path.exists("glove/inputFile"):
     print("Clean file input done")
 
 # Run script to create wordList and wordVectors
-if not os.path.exists("glove/wordList.txt") or not os.path.exists("glove/wordVectors.txt"):
+if not os.path.exists("glove/wordVectors.tsv"):
     shell_script = subprocess.Popen(["glove/createWordListAndVector.sh"], stdin=subprocess.PIPE)
     shell_script.stdin.write("yes\n")
     shell_script.stdin.close()
@@ -112,27 +112,50 @@ if not os.path.exists("glove/wordList.txt") or not os.path.exists("glove/wordVec
 
 # Load wordList and wordVectors
 wordsList = []
-with open("glove/wordList.txt", "r") as f:
+# with open("glove/wordList.txt", "r") as f:
+#     while True:
+#         line = list(islice(f, 1))
+#         if not line:
+#             break
+#         line = line[0].split()
+#         wordsList.append(line[0])
+# wordsList = [unicode(word, errors='replace') for word in wordsList]  # Encode words as UTF-8
+# numWordInput = len(wordsList)
+# print('Loaded the word list!')
+# print(numWordInput)
+
+wordVectors = []
+text = ''
+# with open("glove/wordVectors.tsv", "r") as f:
+#     while True:
+#         line = list(islice(f, 1))
+#         if not line:
+#             break
+#         text += line[0].replace('\n', ' ')
+#
+# abc = text.replace(']', '\n').replace('[', '').replace('\t', ' ')
+# abc = re.sub("[ ]+", " ", abc)
+# with open("glove/wordVectors.txt", "w") as f:
+#     f.write(abc)
+
+with open("glove/wordVectors.txt", "r") as f:
     while True:
         line = list(islice(f, 1))
-        if not line:
+        if not line or line[0].strip() == '':
             break
-        line = line[0].split()
-        wordsList.append(line[0])
+        temp = line[0].strip().split()
+        print(temp[0])
+        word = temp[1]
+        matric = array(temp[2:], np.float32)
+        wordsList.append(word)
+        wordVectors.append(matric)
+
 wordsList = [unicode(word, errors='replace') for word in wordsList]  # Encode words as UTF-8
 numWordInput = len(wordsList)
 print('Loaded the word list!')
 print(numWordInput)
 
-wordVectors = []
-with open("glove/wordVectors.txt", "r") as f:
-    while True:
-        line = list(islice(f, 1))
-        if not line:
-            break
-        items = array(line[0].split()[1:], np.float32)
-        wordVectors.append(items)
-wordVectors = array(wordVectors[:-1], np.float32)
+wordVectors = array(wordVectors, np.float32)
 print ('Loaded the word vectors!')
 print(wordVectors.shape)
 

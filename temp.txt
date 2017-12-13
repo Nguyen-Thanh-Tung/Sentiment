@@ -1,0 +1,5 @@
+Max sequence length:50
+Number line positive:1306
+Number line pos+neg:3551
+Number line pos+neg+neu:5266
+Number line pos+neg+neu+fix:5294
